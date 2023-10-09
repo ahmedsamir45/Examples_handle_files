@@ -1,0 +1,2 @@
+1	ahmed	90	
+2	mohmed	85	
